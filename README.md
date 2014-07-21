@@ -1,4 +1,4 @@
-*The Design Pattern*
+<h1>The Design Pattern</h1>
 
 Design patterns are the common idioms of code. They are like little spring-loaded
 solutions to common programming problems.When the appropriate problem
@@ -10,7 +10,7 @@ It's useful to be able to recognise the common problems that arise repeatedly wh
 
 -------------------------------------------------------------------------------------------------------------
 
-*The Builder Pattern*
+<h1>The Builder Pattern</h1>
 
 In a nutshell...
 
