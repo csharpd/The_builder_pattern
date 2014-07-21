@@ -1,4 +1,4 @@
-<h1>The Design Pattern</h1>
+<h1>Design Patterns in Ruby</h1>
 
 Design patterns are the common idioms of code. They are like little spring-loaded
 solutions to common programming problems.When the appropriate problem
