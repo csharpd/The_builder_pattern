@@ -13,7 +13,7 @@ It's useful to be able to recognise the common problems that arise repeatedly wh
 
 In a nutshell,the two main things to remember about this pattern are:
 
-<h2>1.The builder happen helps when we need to configure complex objects.</h2>
+<h2>1.The builder pattern helps when we need to configure complex objects.</h2>
 
 One example of a complex object is a Computer.  Suppose each
 computer is made up of a display, a motherboard, and some drives.
