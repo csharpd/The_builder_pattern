@@ -8,7 +8,6 @@ It's useful to be able to recognise the common problems that arise repeatedly wh
 
 "The advantage of design patterns is that they let you rapidly wing your way past the problems that someone has already solves, so that you can get on to the hard stuff, the code that is unique to your situation." 
 
--------------------------------------------------------------------------------------------------------------
 
 <h1>The Builder Pattern</h1>
 
