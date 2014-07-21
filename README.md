@@ -11,8 +11,19 @@ It's useful to be able to recognise the common problems that arise repeatedly wh
 
 <h1>The Builder Pattern</h1>
 
-In a nutshell...
+In a nutshell,the two main things to remember about this pattern are:
 
-1.Helps when configuring complex objects
+<h2>1.The builder happen helps when we need to configure complex objects.</h2>
 
-2.Hides implementation details 
+One example of a complex object is a Computer.  Suppose each
+computer is made up of a display, a motherboard, and some drives.
+
+"The display is easy; it is either a :crt or an :lcd. The motherboard is a whole
+object in itself; it has a certain amount of memory and holds either an ordinary CPU
+or a superfast turbo processor...The drives, which come in three flavors (hard drive, CD, and DVD) are modeled
+by the Drive class.."
+
+<h2>2.The Builder class hides implementation details </h2>
+i.e "When we use the ComputerBuilder class, we can stay blissfully ignorant of
+which classes represent the DVDs or the hard disks; we just ask for the computer
+configuration that we need."
